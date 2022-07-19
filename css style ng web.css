@@ -1,0 +1,22 @@
+body{
+    background:rgb(151, 213, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    /* Apply to all four sides */
+    margin: 2px 1em 0 auto;
+}
+h2 
+    color : purple;
+    font-size: 80 px;
+    margin: 0px;
+    text-align: center;
+    }
+p {
+    font-size: 60;
+    margin: 0px;
+    text-align: center;
+    }
+
+div p {
+    font-size : 80%
+}
